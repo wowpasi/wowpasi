@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [ORIEN Solutions (PVT) ltd](https://www.oriensolutions.com/)
+- 🔭 I’m currently working on [IT HOME](https://www.ithome.lk/)
 - 🌱 I’m currently learning React, Java, SpringBoot
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
